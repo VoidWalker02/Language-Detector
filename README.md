@@ -26,7 +26,7 @@ The model pipeline consists of:
 
 ## Usage
 
-Access Google Colab and open the ipynb file there. The loading time should run under 10 minutes, after that, the magic happens.
+Access Google Colab, create a new notebook and paste the file contents there. The loading time should run under 10 minutes, after that, the magic happens.
 
 
 ## Conclusion
